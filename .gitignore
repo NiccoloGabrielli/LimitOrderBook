@@ -36,3 +36,4 @@ compile_commands.json
 *.log
 *.profdata
 *.profraw
+a.out
